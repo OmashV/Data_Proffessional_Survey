@@ -11,7 +11,7 @@ This project is an interactive **Power BI Dashboard** that visualizes insights f
 - **Entry Difficulty**: Pie chart showing how difficult respondents found breaking into the data industry.  
 
 ## Dashboard Preview  
-![Dashboard Preview](Screenshot 2025-02-26 103558.png)  
+![Dashboard Preview](Screenshot%2025-02-26%103558.png)  
 
 ## How to Use  
 1. Open the Power BI file (`.pbix`).  
