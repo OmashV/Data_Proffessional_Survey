@@ -10,9 +10,6 @@ This project is an interactive **Power BI Dashboard** that visualizes insights f
 - **Work-Life Balance & Salary Satisfaction**: Gauges displaying happiness scores.  
 - **Entry Difficulty**: Pie chart showing how difficult respondents found breaking into the data industry.  
 
-## Dashboard Preview  
-![Dashboard Preview](Screenshot%2025-02-26%103558.png)  
-
 ## How to Use  
 1. Open the Power BI file (`.pbix`).  
 2. Load the dataset if needed.  
